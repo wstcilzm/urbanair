@@ -6,3 +6,11 @@ E:\urbanair_v1\LoadWeatherDataToRedis\bin\Debug\Newtonsoft.Json.xml
 E:\urbanair_v1\LoadWeatherDataToRedis\obj\Debug\LoadWeatherDataToRedis.csprojResolveAssemblyReference.cache
 E:\urbanair_v1\LoadWeatherDataToRedis\obj\Debug\LoadWeatherDataToRedis.exe
 E:\urbanair_v1\LoadWeatherDataToRedis\obj\Debug\LoadWeatherDataToRedis.pdb
+F:\uair\urbanair\LoadWeatherDataToRedis\bin\Debug\LoadWeatherDataToRedis.exe.config
+F:\uair\urbanair\LoadWeatherDataToRedis\bin\Debug\LoadWeatherDataToRedis.exe
+F:\uair\urbanair\LoadWeatherDataToRedis\bin\Debug\LoadWeatherDataToRedis.pdb
+F:\uair\urbanair\LoadWeatherDataToRedis\bin\Debug\Newtonsoft.Json.dll
+F:\uair\urbanair\LoadWeatherDataToRedis\bin\Debug\Newtonsoft.Json.xml
+F:\uair\urbanair\LoadWeatherDataToRedis\obj\Debug\LoadWeatherDataToRedis.csprojResolveAssemblyReference.cache
+F:\uair\urbanair\LoadWeatherDataToRedis\obj\Debug\LoadWeatherDataToRedis.exe
+F:\uair\urbanair\LoadWeatherDataToRedis\obj\Debug\LoadWeatherDataToRedis.pdb

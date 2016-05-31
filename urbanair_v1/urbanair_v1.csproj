@@ -264,6 +264,7 @@
     <Compile Include="DAL\RedisCacheDAO.cs" />
     <Compile Include="DAL\IDBConnection.cs" />
     <Compile Include="DAL\SqlDAO.cs" />
+    <Compile Include="DAL\SqlHelper.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
