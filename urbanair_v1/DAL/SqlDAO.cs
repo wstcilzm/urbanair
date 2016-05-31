@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -182,7 +184,21 @@ namespace urbanair_v1.DAL
         /// <returns></returns>
         public string RetrieveAQIPredictionByStationId(string stationId)
         {
-            throw new Exception("not implement");
+            StringBuilder sb = new StringBuilder();
+            sb.Append("select top(1) * from AQIPREDICTION where locationtype=@LocationType")
+                .Append(" and locationcode=@LocationCode order by TimeWindow Desc");
+            SqlParameter[] par =
+            {
+                new SqlParameter("@LocationType",3),
+                new SqlParameter("@LocationCode",stationId)
+            };
+            DataTable dt = SqlHelper.SqlDataTable(sb.ToString(), par);
+            string value = "";
+            if(dt!=null&&dt.Rows.Count>0)
+            {
+                value = dt.Rows[0]["Detail"].ToString();
+            }
+            return value;
         }
 
         /// <summary>
