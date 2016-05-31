@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Spatial;
 
 namespace urbanair_v1.Models
 {
@@ -40,5 +41,10 @@ namespace urbanair_v1.Models
         /// station longitude
         /// </summary>
         public double Longitude { get; set; }
+
+        /// <summary>
+        /// Represents a geography point of station.
+        /// </summary>
+        public DbGeography StationGeo { get; set; }
     }
 }

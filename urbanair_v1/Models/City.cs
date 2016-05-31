@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Spatial;
 
 namespace urbanair_v1.Models
 {
@@ -60,6 +61,11 @@ namespace urbanair_v1.Models
         /// center longitude
         /// </summary>
         public double CenterLongitude { get; set; }
+
+        /// <summary>
+        /// Represents a geography shapes of city.
+        /// </summary>
+        public DbGeography CityGeo { get; set; }
 
         /// <summary>
         /// district id list

@@ -1,0 +1,10 @@
+E:\urbanair_v1\PutDataToRedis\bin\Debug\PutDataToRedis.exe.config
+E:\urbanair_v1\PutDataToRedis\bin\Debug\PutDataToRedis.exe
+E:\urbanair_v1\PutDataToRedis\bin\Debug\PutDataToRedis.pdb
+E:\urbanair_v1\PutDataToRedis\bin\Debug\Newtonsoft.Json.dll
+E:\urbanair_v1\PutDataToRedis\bin\Debug\StackExchange.Redis.dll
+E:\urbanair_v1\PutDataToRedis\bin\Debug\Newtonsoft.Json.xml
+E:\urbanair_v1\PutDataToRedis\bin\Debug\StackExchange.Redis.xml
+E:\urbanair_v1\PutDataToRedis\obj\Debug\PutDataToRedis.csprojResolveAssemblyReference.cache
+E:\urbanair_v1\PutDataToRedis\obj\Debug\PutDataToRedis.exe
+E:\urbanair_v1\PutDataToRedis\obj\Debug\PutDataToRedis.pdb

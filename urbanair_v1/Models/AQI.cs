@@ -17,33 +17,8 @@ namespace urbanair_v1.Models
         public DateTime Time { get; set; }
 
         /// <summary>
-        /// PM2.5 index for air quality
+        /// air Pollutant
         /// </summary>
-        public int PM25 { get; set; }
-
-        /// <summary>
-        /// PM10 index for air quality
-        /// </summary>
-        public int PM10 { get; set; }
-
-        /// <summary>
-        /// NO2 index for air quality
-        /// </summary>
-        public int NO2 { get; set; }
-
-        /// <summary>
-        /// CO index for air quality
-        /// </summary>
-        public int CO { get; set; }
-
-        /// <summary>
-        /// O3 index for air quality
-        /// </summary>
-        public int O3 { get; set; }
-
-        /// <summary>
-        /// SO2 index for air quality
-        /// </summary>
-        public int SO2 { get; set; }
+        public Pollutants AirPollutant { get; set; }
     }
 }

@@ -90,24 +90,10 @@ C:\Users\v-dzhu\Documents\Visual Studio 2015\Projects\urbanair_v1\urbanair_v1\bi
 C:\Users\v-dzhu\Documents\Visual Studio 2015\Projects\urbanair_v1\urbanair_v1\bin\System.Web.Http.Owin.xml
 C:\Users\v-dzhu\Documents\Visual Studio 2015\Projects\urbanair_v1\urbanair_v1\obj\Debug\urbanair_v1.dll
 C:\Users\v-dzhu\Documents\Visual Studio 2015\Projects\urbanair_v1\urbanair_v1\obj\Debug\urbanair_v1.pdb
-E:\urbanair_v1\urbanair_v1\bin\ApplicationInsights.config
-E:\urbanair_v1\urbanair_v1\bin\roslyn\csc.exe
-E:\urbanair_v1\urbanair_v1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-E:\urbanair_v1\urbanair_v1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-E:\urbanair_v1\urbanair_v1\bin\roslyn\Microsoft.CodeAnalysis.dll
-E:\urbanair_v1\urbanair_v1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-E:\urbanair_v1\urbanair_v1\bin\roslyn\Microsoft.CSharp.Core.targets
-E:\urbanair_v1\urbanair_v1\bin\roslyn\Microsoft.VisualBasic.Core.targets
-E:\urbanair_v1\urbanair_v1\bin\roslyn\System.Collections.Immutable.dll
-E:\urbanair_v1\urbanair_v1\bin\roslyn\System.Reflection.Metadata.dll
-E:\urbanair_v1\urbanair_v1\bin\roslyn\vbc.exe
-E:\urbanair_v1\urbanair_v1\bin\roslyn\VBCSCompiler.exe
-E:\urbanair_v1\urbanair_v1\bin\roslyn\VBCSCompiler.exe.config
-E:\urbanair_v1\urbanair_v1\bin\urbanair_v1.dll.config
+E:\urbanair_v1\urbanair_v1\bin\System.Web.Http.dll
 E:\urbanair_v1\urbanair_v1\bin\urbanair_v1.XML
-E:\urbanair_v1\urbanair_v1\bin\urbanair_v1.dll
-E:\urbanair_v1\urbanair_v1\bin\urbanair_v1.pdb
 E:\urbanair_v1\urbanair_v1\bin\Antlr3.Runtime.dll
+E:\urbanair_v1\urbanair_v1\bin\Autofac.dll
 E:\urbanair_v1\urbanair_v1\bin\EntityFramework.dll
 E:\urbanair_v1\urbanair_v1\bin\EntityFramework.SqlServer.dll
 E:\urbanair_v1\urbanair_v1\bin\Microsoft.AI.Agent.Intercept.dll
@@ -133,10 +119,11 @@ E:\urbanair_v1\urbanair_v1\bin\Microsoft.Owin.Security.Twitter.dll
 E:\urbanair_v1\urbanair_v1\bin\Microsoft.Web.Infrastructure.dll
 E:\urbanair_v1\urbanair_v1\bin\Newtonsoft.Json.dll
 E:\urbanair_v1\urbanair_v1\bin\Owin.dll
+E:\urbanair_v1\urbanair_v1\bin\StackExchange.Redis.dll
 E:\urbanair_v1\urbanair_v1\bin\Swashbuckle.Core.dll
 E:\urbanair_v1\urbanair_v1\bin\System.Net.Http.Formatting.dll
+E:\urbanair_v1\urbanair_v1\bin\System.Spatial.dll
 E:\urbanair_v1\urbanair_v1\bin\System.Web.Helpers.dll
-E:\urbanair_v1\urbanair_v1\bin\System.Web.Http.dll
 E:\urbanair_v1\urbanair_v1\bin\System.Web.Http.Owin.dll
 E:\urbanair_v1\urbanair_v1\bin\System.Web.Http.WebHost.dll
 E:\urbanair_v1\urbanair_v1\bin\System.Web.Mvc.dll
@@ -147,6 +134,7 @@ E:\urbanair_v1\urbanair_v1\bin\System.Web.WebPages.dll
 E:\urbanair_v1\urbanair_v1\bin\System.Web.WebPages.Razor.dll
 E:\urbanair_v1\urbanair_v1\bin\WebActivatorEx.dll
 E:\urbanair_v1\urbanair_v1\bin\WebGrease.dll
+E:\urbanair_v1\urbanair_v1\bin\Autofac.xml
 E:\urbanair_v1\urbanair_v1\bin\Microsoft.AI.DependencyCollector.xml
 E:\urbanair_v1\urbanair_v1\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\urbanair_v1\urbanair_v1\bin\Microsoft.AI.Web.xml
@@ -154,6 +142,8 @@ E:\urbanair_v1\urbanair_v1\bin\Microsoft.AI.WindowsServer.xml
 E:\urbanair_v1\urbanair_v1\bin\Microsoft.ApplicationInsights.xml
 E:\urbanair_v1\urbanair_v1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\urbanair_v1\urbanair_v1\bin\Newtonsoft.Json.xml
+E:\urbanair_v1\urbanair_v1\bin\StackExchange.Redis.xml
+E:\urbanair_v1\urbanair_v1\bin\System.Spatial.xml
 E:\urbanair_v1\urbanair_v1\bin\System.Net.Http.Formatting.xml
 E:\urbanair_v1\urbanair_v1\bin\System.Web.Helpers.xml
 E:\urbanair_v1\urbanair_v1\bin\System.Web.Http.xml
@@ -180,6 +170,22 @@ E:\urbanair_v1\urbanair_v1\bin\Microsoft.Owin.Security.Google.xml
 E:\urbanair_v1\urbanair_v1\bin\Microsoft.Owin.Security.Twitter.xml
 E:\urbanair_v1\urbanair_v1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\urbanair_v1\urbanair_v1\bin\System.Web.Http.Owin.xml
-E:\urbanair_v1\urbanair_v1\obj\Debug\urbanair_v1.csprojResolveAssemblyReference.cache
 E:\urbanair_v1\urbanair_v1\obj\Debug\urbanair_v1.dll
 E:\urbanair_v1\urbanair_v1\obj\Debug\urbanair_v1.pdb
+E:\urbanair_v1\urbanair_v1\bin\ApplicationInsights.config
+E:\urbanair_v1\urbanair_v1\bin\roslyn\csc.exe
+E:\urbanair_v1\urbanair_v1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\urbanair_v1\urbanair_v1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\urbanair_v1\urbanair_v1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\urbanair_v1\urbanair_v1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\urbanair_v1\urbanair_v1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\urbanair_v1\urbanair_v1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\urbanair_v1\urbanair_v1\bin\roslyn\System.Collections.Immutable.dll
+E:\urbanair_v1\urbanair_v1\bin\roslyn\System.Reflection.Metadata.dll
+E:\urbanair_v1\urbanair_v1\bin\roslyn\vbc.exe
+E:\urbanair_v1\urbanair_v1\bin\roslyn\VBCSCompiler.exe
+E:\urbanair_v1\urbanair_v1\bin\roslyn\VBCSCompiler.exe.config
+E:\urbanair_v1\urbanair_v1\bin\urbanair_v1.dll.config
+E:\urbanair_v1\urbanair_v1\bin\urbanair_v1.dll
+E:\urbanair_v1\urbanair_v1\bin\urbanair_v1.pdb
+E:\urbanair_v1\urbanair_v1\obj\Debug\urbanair_v1.csprojResolveAssemblyReference.cache

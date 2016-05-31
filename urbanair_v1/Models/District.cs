@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Spatial;
 
 namespace urbanair_v1.Models
 {
@@ -30,6 +31,11 @@ namespace urbanair_v1.Models
         /// district English name
         /// </summary>
         public string EnglishName { get; set; }
+
+        /// <summary>
+        /// Represents a geography shapes of district.
+        /// </summary>
+        public DbGeography DistrictGeo { get; set; }
 
         /// <summary>
         /// station id list

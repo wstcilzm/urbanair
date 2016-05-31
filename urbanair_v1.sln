@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "urbanair_v1", "urbanair_v1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "urbanair_v1.Tests", "urbanair_v1.Tests\urbanair_v1.Tests.csproj", "{4565A5B8-8D06-4F84-88B7-CBC630508528}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadWeatherDataToRedis", "LoadWeatherDataToRedis\LoadWeatherDataToRedis.csproj", "{36B2846E-950F-472E-B2E8-AA7D5478180B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PutDataToRedis", "PutDataToRedis\PutDataToRedis.csproj", "{58A568DD-AC01-4168-A721-90D56F43340C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4565A5B8-8D06-4F84-88B7-CBC630508528}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4565A5B8-8D06-4F84-88B7-CBC630508528}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4565A5B8-8D06-4F84-88B7-CBC630508528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B2846E-950F-472E-B2E8-AA7D5478180B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B2846E-950F-472E-B2E8-AA7D5478180B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B2846E-950F-472E-B2E8-AA7D5478180B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B2846E-950F-472E-B2E8-AA7D5478180B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A568DD-AC01-4168-A721-90D56F43340C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A568DD-AC01-4168-A721-90D56F43340C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A568DD-AC01-4168-A721-90D56F43340C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A568DD-AC01-4168-A721-90D56F43340C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

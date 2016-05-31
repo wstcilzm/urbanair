@@ -65,6 +65,7 @@ C:\Users\v-dzhu\Documents\Visual Studio 2015\Projects\urbanair_v1\urbanair_v1.Te
 C:\Users\v-dzhu\Documents\Visual Studio 2015\Projects\urbanair_v1\urbanair_v1.Tests\obj\Debug\urbanair_v1.Tests.csprojResolveAssemblyReference.cache
 C:\Users\v-dzhu\Documents\Visual Studio 2015\Projects\urbanair_v1\urbanair_v1.Tests\obj\Debug\urbanair_v1.Tests.dll
 C:\Users\v-dzhu\Documents\Visual Studio 2015\Projects\urbanair_v1\urbanair_v1.Tests\obj\Debug\urbanair_v1.Tests.pdb
+E:\urbanair_v1\urbanair_v1.Tests\obj\Debug\urbanair_v1.Tests.csprojResolveAssemblyReference.cache
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\ApplicationInsights.config
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\roslyn\csc.exe
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -81,9 +82,11 @@ E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\urbanair_v1.Tests.dll.config
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\urbanair_v1.Tests.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\urbanair_v1.Tests.pdb
+E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Autofac.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\StackExchange.Redis.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\System.Net.Http.Formatting.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\System.Web.Helpers.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\System.Web.Http.dll
@@ -104,12 +107,14 @@ E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Owin.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Swashbuckle.Core.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\System.Web.Http.Owin.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\EntityFramework.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\System.Web.Http.Owin.dll
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\urbanair_v1.pdb
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\urbanair_v1.xml
+E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Autofac.xml
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\StackExchange.Redis.xml
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\System.Net.Http.Formatting.xml
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\System.Web.Helpers.xml
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\System.Web.Http.xml
@@ -126,9 +131,8 @@ E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Microsoft.Owin.Security.xml
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\System.Web.Http.Owin.xml
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\EntityFramework.xml
 E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
-E:\urbanair_v1\urbanair_v1.Tests\obj\Debug\urbanair_v1.Tests.csprojResolveAssemblyReference.cache
+E:\urbanair_v1\urbanair_v1.Tests\bin\Debug\System.Web.Http.Owin.xml
 E:\urbanair_v1\urbanair_v1.Tests\obj\Debug\urbanair_v1.Tests.dll
 E:\urbanair_v1\urbanair_v1.Tests\obj\Debug\urbanair_v1.Tests.pdb
